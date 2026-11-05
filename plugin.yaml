@@ -1,0 +1,8 @@
+name: youtube-transcript
+version: "0.1.0"
+description: "One tool call for a YouTube video's title, channel, length, language and transcript: no shell, no yt-dlp."
+author: Ignacio Pastor
+license: MIT
+requires_hermes: ">=0.22.7"
+tags: [youtube, transcript, media]
+provides_tools: [youtube_transcript]
